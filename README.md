@@ -35,26 +35,31 @@
         • First, Normalization were applied to the train data using MinMaxScaler.
     
         • Then, develop the model using Sequential API
-    
+<p align="center">        
+<img src="https://user-images.githubusercontent.com/120104404/207805171-5538544d-22b1-4a9a-b12e-51eb0ff42120.png">
+</p> 
+
         • Callbacks function were use. (Earlystopping and TensorBoard)
 
         • Predict the data
 
 Last but not least, save all the model used 
 
+
 ## Result
 MAE and MAPE result :
-
-![mae and mape](https://user-images.githubusercontent.com/120104404/207801689-c1fdd01c-df4a-46a1-b4be-45b7829af269.jpg)
+<img src="https://user-images.githubusercontent.com/120104404/207801689-c1fdd01c-df4a-46a1-b4be-45b7829af269.jpg">
 
 Predicted and Actual Covid Cases Graph :
-
-![prediction vs actual](https://user-images.githubusercontent.com/120104404/207802285-238f4638-a212-4f87-8297-55920b7c4655.jpg)
+<p align="center">        
+<img src="https://user-images.githubusercontent.com/120104404/207809011-047818c1-09e2-454b-a7fc-89b90fd0f5e0.jpg">
+</p>
 
 Loss and MAPE Graph from TensorBoard :
-
-![epoch_mape](https://user-images.githubusercontent.com/120104404/207801869-a748f43a-2f3c-4550-aab3-e2fac52624f8.jpg)
-![epoch_loss](https://user-images.githubusercontent.com/120104404/207801895-b9002c4c-b63e-4adf-9e95-a1063a678beb.jpg)
+<p align="center">        
+<img src="https://user-images.githubusercontent.com/120104404/207801869-a748f43a-2f3c-4550-aab3-e2fac52624f8.jpg">
+<img src="https://user-images.githubusercontent.com/120104404/207801895-b9002c4c-b63e-4adf-9e95-a1063a678beb.jpg">
+</p>
 
 ## Credits
 
