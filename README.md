@@ -13,7 +13,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-[Description](https://github.com/deenazati08/Covid19-Cases-Prediction/edit/main/README.md#description) // [Result](https://github.com/deenazati08/Covid19-Cases-Prediction/edit/main/README.md#result) // [Credits](https://github.com/deenazati08/Covid19-Cases-Prediction/edit/main/README.md#credits)
+[Description](https://github.com/deenazati08/Covid19-Cases-Prediction#description) // [Result](https://github.com/deenazati08/Covid19-Cases-Prediction#result) // [Credits](https://github.com/deenazati08/Covid19-Cases-Prediction#credits)
 
 
 ## Description
